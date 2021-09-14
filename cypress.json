@@ -1,0 +1,6 @@
+{
+  "video": false, 
+  "pageLoadTimeout": 1500000,
+  "responseTimeout": 500000,
+  "eyesTimeout": 10000000000
+}
